@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>A student in-and-out record web app using Python, SQL, HTML, and CSS.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source web development projects and innovative frontend or full-stack applications.<br><br>🫶 I’m looking for help with<br><br>Optimizing SQL queries, improving backend performance, and deploying full-stack web apps effectively.<br><br>🌱 I’m currently learning<br><br>Full-stack web development, Java programming, and database systems (DBMS).<br><br>💬 Ask me about<br><br>Frontend design, SQL queries, database schema planning, or project documentation.<br><br>⚡ Fun fact<br><br>I love turning simple ideas into fully functional web projects with clean, professional UI ✨
+🔭 I’m currently working on<br><br>A student in-and-out record web app using Python, SQL, HTML, and CSS.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source web development projects and innovative frontend or full-stack applications.<br><br>🫶 I’m looking for help with<br><br>Optimizing SQL queries, improving backend performance, and deploying full-stack web apps effectively.<br><br>🌱 I’m currently learning<br><br>Full-stack web development, Java programming, and database systems (DBMS).<br><br>💬 Ask me about<br><br>Frontend design, SQL queries, database schema planning, or project documentation.<br><br>⚡ Fun fact<br><br>When I'm not coding, I’m probably trying to hack my way into new knowledge—because “curiosity didn't kill the cat, it built the next big thing!
 
 
 ## 🌐 Socials:
@@ -27,5 +27,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gunjanghangare) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
