@@ -86,5 +86,5 @@ I'm a passionate developer focused on building **interactive, scalable, and beau
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/gunjan-creates/count.svg" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/gunjan-creates/count.svg" alt="Gunjan's Profile Views" style="border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3);" />
 </p>
