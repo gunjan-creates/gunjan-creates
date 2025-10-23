@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1snIukS9abo3xFs-D0tLO5TJ_JegBJQf3/view?usp=sharing" alt="Animated Coding Freak Banner" width="100%" style="border-radius:15px; box-shadow: 0 5px 15px rgba(255, 138, 0, 0.4); margin-bottom: 20px;">
+  <img src="https://pin.it/7IQGZQyVn" width="100%" style="border-radius:15px; box-shadow: 0 5px 15px rgba(255, 138, 0, 0.4); margin-bottom: 20px;">
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-size: 3em; text-shadow: 0 0 10px rgba(255, 138, 0, 0.5);">
