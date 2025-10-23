@@ -49,8 +49,8 @@ I'm a passionate developer who loves creating interactive and beautiful web apps
 <!-- 🚀 GitHub Stats with Glow Effect -->
 <h2 style="color:#ff6f61;">🚀 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&count_private=true" alt="Gunjan's GitHub Stats" style="border-radius:10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" alt="GitHub Streak" style="border-radius:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-creates&show_icons=true&theme=dracula&count_private=true" alt="Gunjan's GitHub Stats" style="border-radius:10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-creates&theme=dracula" alt="GitHub Streak" style="border-radius:10px;"/>
 </p>
 
 ---
