@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/e99ff68449c47e8574c831e51356781b/tumblr_n028z6r3511rt6q4po1_1280.gifv" alt="Neon Coding GIF Banner" width="100%" style="border-radius:15px; box-shadow: 0 5px 15px rgba(255, 138, 0, 0.4); margin-bottom: 20px;">
+  <img src="https://github.com/rudrabarad/Gifs" alt="Reliable Animated Coding Banner" width="100%" style="border-radius:15px; box-shadow: 0 5px 15px rgba(255, 138, 0, 0.4); margin-bottom: 20px;">
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-size: 3em; text-shadow: 0 0 10px rgba(255, 138, 0, 0.5);">
