@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gunjan Ghangare 
 
-### A passionate Html developer
+### A passionate Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-creates&label=Profile views&color=0e75b6&style=flat" alt="gunjan-creates" /> </p>
 
