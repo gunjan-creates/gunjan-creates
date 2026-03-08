@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="3d_cartoon_avatar_of_a_man_minimal_3d_character_avatar_for_profile___Premium_AI-generated_image-removebg-preview.png" width="180" alt="Avatar" />
+  <img src="" width="180" alt="Avatar" />
   
   <h1 align="center">Hey there 👋 I am Gunjan</h1>
 
