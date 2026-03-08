@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="" width="180" alt="Avatar" />
+  <img/>
   
   <h1 align="center">Hey there 👋 I am Gunjan</h1>
 
