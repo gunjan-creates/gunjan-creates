@@ -207,32 +207,13 @@
 
 <div align="center">
   
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/gunjan-ghangare">
-    <img src="https://github-profile-trophy.vercel.app/?username=gunjan-ghangare&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=9945FF&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangare&theme=radical&hide_border=true&background=0D1117&stroke=9945FF&ring=9945FF&fire=FF6B6B&currStreakLabel=FFFFFF" height="180" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangare&theme=radical&hide_border=true&background=0D1117&stroke=9945FF&ring=9945FF&fire=FF6B6B&currStreakLabel=FFFFFF" width="100%" alt="GitHub Streak" />
   
   <br><br>
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjan-ghangare&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=9945FF&line=9945FF&point=FF6B6B" width="100%" alt="Contribution Graph" />
-  
-  <br><br>
-  
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-ghangare&theme=radical" width="100%" alt="Profile Summary" />
-  
-  <br><br>
-  
-  <!-- Additional Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjan-ghangare&theme=radical" height="220" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjan-ghangare&theme=radical" height="220" alt="Repos Per Language" />
   
 </div>
 
