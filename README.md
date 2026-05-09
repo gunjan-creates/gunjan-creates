@@ -194,6 +194,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </p>
 
+<!-- GitHub Analytics Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=9945FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangare&theme=radical&hide_border=true&background=0D1117&stroke=9945FF&ring=9945FF&fire=FF6B6B&currStreakLabel=FFFFFF" width="100%" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjan-ghangare&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=9945FF&line=9945FF&point=FF6B6B" width="100%" alt="Contribution Graph" />
+  
+</div>
+
 <!-- Rainbow Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
