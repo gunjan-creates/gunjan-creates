@@ -25,6 +25,12 @@
   <a href="https://www.linkedin.com/in/gunjanghangare/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/gunjan__.10/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tryhackme.com/p/its.got.hacked" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" alt="TryHackMe"/>
+  </a>
   <a href="https://codepen.io/gunjanghangare" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
@@ -77,7 +83,7 @@
       </blockquote>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://gifdb.com/images/high/programming-jim-carrey-aggressive-typing-wmu5az6tp699cfg9.gif" width="100%" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Hacker Coding GIF" />
     </td>
   </tr>
 </table>
