@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gunjan%20Ghangare&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Gunjan%20Ghangare&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlign=50&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
   
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/gunjan-creates/Costom-Svg/main/gunjan_snake.svg" width="100%" alt="Snake Animation" />
@@ -79,7 +79,7 @@
     <td width="45%" align="center" valign="middle">
       <img src="https://gifdb.com/images/high/programming-jim-carrey-aggressive-typing-wmu5az6tp699cfg9.gif" width="100%" alt="Coding GIF" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&langs_count=8&card_width=400" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -231,8 +231,8 @@
   <br><br>
   
   <!-- Additional Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF" height="200" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=gunjan-ghangare&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF" height="200" alt="Top Contributed Repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF&langs_count=8" height="220" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=gunjan-ghangare&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF&combine_all_yearly_contributions=true" height="220" alt="Top Contributed Repos" />
   
 </div>
 
