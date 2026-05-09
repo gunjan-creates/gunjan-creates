@@ -125,10 +125,6 @@
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
   </p>
   
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300" alt="Tech Illustration">
-  
 </div>
 
 <!-- Animated Divider -->
@@ -234,11 +230,6 @@
   <a href="https://www.google.com/search?q=Gunjan+Ghangare" target="_blank">
     <img src="https://img.shields.io/badge/Know%20More%20About%20Me-FF512F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Know More" />
   </a>
-  
-  <br><br>
-  
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   
   <br><br>
   
