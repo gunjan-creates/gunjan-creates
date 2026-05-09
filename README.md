@@ -231,8 +231,8 @@
   <br><br>
   
   <!-- Additional Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF&langs_count=8" height="220" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=gunjan-ghangare&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=FFFFFF&combine_all_yearly_contributions=true" height="220" alt="Top Contributed Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjan-ghangare&theme=radical" height="220" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjan-ghangare&theme=radical" height="220" alt="Repos Per Language" />
   
 </div>
 
