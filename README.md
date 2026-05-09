@@ -78,8 +78,6 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="https://gifdb.com/images/high/programming-jim-carrey-aggressive-typing-wmu5az6tp699cfg9.gif" width="100%" alt="Coding GIF" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&langs_count=8&card_width=400" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
