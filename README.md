@@ -217,6 +217,33 @@
   
 </div>
 
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+</p>
+
+<!-- TryHackMe Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=88CC14&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8E%AF+TryHackMe+Hacking+Journey" alt="TryHackMe" />
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- TryHackMe Official Badge (auto-updating: rank, points, streak) -->
+  <a href="https://tryhackme.com/p/its.got.hacked" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/its.got.hacked.png" alt="TryHackMe Badge" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://tryhackme.com/p/its.got.hacked" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" alt="View TryHackMe Profile" />
+  </a>
+  
+</div>
+
 <!-- Rainbow Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
