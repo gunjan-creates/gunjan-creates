@@ -83,7 +83,7 @@
       </blockquote>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Hacker Coding GIF" />
+      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Hacker Terminal GIF" />
     </td>
   </tr>
 </table>
@@ -224,22 +224,38 @@
 
 <!-- TryHackMe Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=88CC14&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8E%AF+TryHackMe+Hacking+Journey" alt="TryHackMe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=88CC14&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%94%93+Cyber+Security+%7C+TryHackMe" alt="TryHackMe" />
 </div>
 
 <br>
 
 <div align="center">
   
-  <!-- TryHackMe Official Badge (auto-updating: rank, points, streak) -->
   <a href="https://tryhackme.com/p/its.got.hacked" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/its.got.hacked.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/its.got.hacked.png" alt="TryHackMe Badge" width="0" height="0" />
+    <img src="https://img.shields.io/badge/its.got.hacked-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14&label=TryHackMe" alt="TryHackMe Profile" />
   </a>
   
   <br><br>
   
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Rooms-Completed-88CC14?style=flat-square&logo=tryhackme&logoColor=white" alt="Rooms" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning-Paths-FFD700?style=flat-square&logo=tryhackme&logoColor=white" alt="Paths" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Active-Streak-FF6B6B?style=flat-square&logo=tryhackme&logoColor=white" alt="Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
   <a href="https://tryhackme.com/p/its.got.hacked" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" alt="View TryHackMe Profile" />
+    <img src="https://img.shields.io/badge/View%20Full%20Profile%20→-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" alt="View TryHackMe Profile" />
   </a>
   
 </div>
