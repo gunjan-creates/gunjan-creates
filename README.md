@@ -237,62 +237,33 @@
   
   <br><br>
   
-  <h3>🏆 Rare Badges Earned</h3>
+  <!-- Live Stats -->
+  <img src="https://img.shields.io/badge/Rank-Top%208%25-88CC14?style=for-the-badge" alt="Rank" />
+  <img src="https://img.shields.io/badge/Points-182,185-FFD700?style=for-the-badge" alt="Points" />
+  <img src="https://img.shields.io/badge/Badges-14-9945FF?style=for-the-badge" alt="Badges" />
+  <img src="https://img.shields.io/badge/Streak-28%20Days-FF6B6B?style=for-the-badge" alt="Streak" />
+  <img src="https://img.shields.io/badge/Rooms-52-36BCF7?style=for-the-badge" alt="Rooms" />
+  
+  <br><br>
+  
+  <h3>🏆 Rare &amp; Epic Badges</h3>
   
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Hash%20Cracker-FF4500?style=for-the-badge&logoColor=white" alt="Hash Cracker" /><br>
-        <sub><b>Rare: 4.8%</b></sub><br>
-        <sub>Cracking all those hashes</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Adversarial%20Defence%20Ops-8B0000?style=for-the-badge&logoColor=white" alt="Adversarial Defence Ops" /><br>
-        <sub><b>Rare: 1.4%</b></sub><br>
-        <sub>Trained to Defend, Built to Learn</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Silver%20League%201st-C0C0C0?style=for-the-badge&logoColor=black" alt="Silver League" /><br>
-        <sub><b>Rare: 2.2%</b></sub><br>
-        <sub>Silver League 1st place</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Session%20Held-4169E1?style=for-the-badge&logoColor=white" alt="Session Held" /><br>
-        <sub><b>Rare: 1.9%</b></sub><br>
-        <sub>4 weekly missions in a row</sub>
-      </td>
+      <td align="center">🥇<br><b>Platinum League 1st</b><br><sub>🟣 Epic: 0.9%</sub></td>
+      <td align="center">🛡️<br><b>Adversarial Defence Ops</b><br><sub>🔴 Rare: 1.4%</sub></td>
+      <td align="center">🔗<br><b>Session Held</b><br><sub>🔴 Rare: 1.9%</sub></td>
+      <td align="center">🥈<br><b>Silver League 1st</b><br><sub>🔴 Rare: 2.2%</sub></td>
     </tr>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/The%20Course%20Awakens-228B22?style=for-the-badge&logoColor=white" alt="The Course Awakens" /><br>
-        <sub><b>Rare: 2.5%</b></sub><br>
-        <sub>First room in DevSecOps path</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/First%20Alert%20Closed-6A5ACD?style=for-the-badge&logoColor=white" alt="First Alert Closed" /><br>
-        <sub><b>Rare: 6.8%</b></sub><br>
-        <sub>Closing your first alert</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/First%20Scenario%20Done-708090?style=for-the-badge&logoColor=white" alt="First Scenario Completed" /><br>
-        <sub><b>Rare: 5.4%</b></sub><br>
-        <sub>Completing your first scenario</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/100%25%20True%20Positive-00CED1?style=for-the-badge&logoColor=white" alt="100% True Positive Rate" /><br>
-        <sub><b>Rare: 4.4%</b></sub><br>
-        <sub>100% true positive rate</sub>
-      </td>
+      <td align="center">🛡️<br><b>The Course Awakens</b><br><sub>🔴 Rare: 2.5%</sub></td>
+      <td align="center">💯<br><b>100% True Positive</b><br><sub>🔴 Rare: 4.4%</sub></td>
+      <td align="center">🔓<br><b>Hash Cracker</b><br><sub>🔴 Rare: 4.8%</sub></td>
+      <td align="center">🎯<br><b>First Scenario Done</b><br><sub>🔴 Rare: 5.4%</sub></td>
     </tr>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Platinum%20League%201st-9400D3?style=for-the-badge&logoColor=white" alt="Platinum League" /><br>
-        <sub><b>Epic: 0.9%</b></sub><br>
-        <sub>Platinum League 1st place</sub>
-      </td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
+      <td align="center">🚨<br><b>First Alert Closed</b><br><sub>🔴 Rare: 6.8%</sub></td>
+      <td align="center" colspan="3"></td>
     </tr>
   </table>
   
