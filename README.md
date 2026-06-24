@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Gunjan%20Ghangare&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlign=50&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Gunjan%20Ghangare&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Cyber-Security%20Researcher&descAlign=50&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
   
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/gunjan-creates/Costom-Svg/main/gunjan_snake.svg" width="100%" alt="Snake Animation" />
