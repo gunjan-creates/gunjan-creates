@@ -11,7 +11,7 @@
   
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;B.Tech+Student+At+RTMSSU+Nagpur;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;B.Tech+Student+At+RTMSSU+Nagpur;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Researcher" alt="Typing SVG" />
   </a>
   
   <br>
